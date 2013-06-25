@@ -1,0 +1,14 @@
+.social {
+  text-align:center;
+  margin: 2em 0;
+  min-width:250px;
+}
+.social div#___plusone_0 iframe,
+.social .fb-like iframe,
+.social .fb-like span {
+  height:20px !important;
+}
+.social .fb-like {
+  width:49px; 
+  overflow:hidden;
+}
